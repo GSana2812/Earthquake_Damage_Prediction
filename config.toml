@@ -1,0 +1,6 @@
+[database]
+database_name = 'NepalEarthquakeDamage2015'
+user = 'postgres'
+password = 'teknologji'
+host = 'localhost'
+port = '5432'
