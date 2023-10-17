@@ -1,0 +1,115 @@
+2023-10-16 19:47:01 [INFO] Removing High Leakage features
+2023-10-16 19:47:01 [INFO] High Leakage features removed successfully
+2023-10-16 19:47:01 [INFO] Removing columns with high correlation!
+2023-10-16 19:47:02 [INFO] Highly correlated columns successfully removed!
+2023-10-16 19:47:02 [INFO] Removing features with low or high cardinality!
+2023-10-16 19:47:02 [INFO] High or low cardinality features successfully removed.
+2023-10-16 19:47:02 [INFO] Creating the target variable: severe damage
+2023-10-16 19:47:02 [INFO] Removing the damage grade column
+2023-10-16 19:47:02 [INFO] Damage grade column successfully removed.
+2023-10-16 19:47:05 [INFO] Encoding categorical variables
+2023-10-16 19:47:06 [INFO] Categorical values successfully encoded!
+2023-10-16 19:47:29 [INFO] Removing High Leakage features
+2023-10-16 19:47:29 [INFO] High Leakage features removed successfully
+2023-10-16 19:47:29 [INFO] Removing columns with high correlation!
+2023-10-16 19:47:29 [INFO] Highly correlated columns successfully removed!
+2023-10-16 19:47:29 [INFO] Removing features with low or high cardinality!
+2023-10-16 19:47:29 [INFO] High or low cardinality features successfully removed.
+2023-10-16 19:47:29 [INFO] Creating the target variable: severe damage
+2023-10-16 19:47:29 [INFO] Removing the damage grade column
+2023-10-16 19:47:29 [INFO] Damage grade column successfully removed.
+2023-10-16 19:47:31 [INFO] Encoding categorical variables
+2023-10-16 19:47:32 [INFO] Categorical values successfully encoded!
+2023-10-16 19:52:31 [INFO] Removing High Leakage features
+2023-10-16 19:52:31 [INFO] High Leakage features removed successfully
+2023-10-16 19:52:31 [INFO] Removing columns with high correlation!
+2023-10-16 19:52:31 [ERROR] Error in removing high correlated features : "[('count_floors_pre_eq', ' condition_post_eq', 'height_ft_post_eq')] not found in axis"
+2023-10-16 19:52:31 [INFO] Highly correlated columns successfully removed!
+2023-10-16 19:52:31 [INFO] Removing features with low or high cardinality!
+2023-10-16 19:52:31 [INFO] High or low cardinality features successfully removed.
+2023-10-16 19:52:31 [INFO] Creating the target variable: severe damage
+2023-10-16 19:52:31 [INFO] Removing the damage grade column
+2023-10-16 19:52:31 [INFO] Damage grade column successfully removed.
+2023-10-16 19:53:31 [INFO] Removing High Leakage features
+2023-10-16 19:53:31 [INFO] High Leakage features removed successfully
+2023-10-16 19:53:31 [INFO] Removing columns with high correlation!
+2023-10-16 19:53:31 [ERROR] Error in removing high correlated features : "[('count_floors_pre_eq', ' condition_post_eq', 'height_ft_post_eq')] not found in axis"
+2023-10-16 19:53:31 [INFO] Highly correlated columns successfully removed!
+2023-10-16 19:53:31 [INFO] Removing features with low or high cardinality!
+2023-10-16 19:53:31 [ERROR] Error in removing high or low cardinality features: "['district_id'] not found in axis"
+2023-10-16 19:53:31 [INFO] High or low cardinality features successfully removed.
+2023-10-16 19:53:31 [INFO] Creating the target variable: severe damage
+2023-10-16 19:53:31 [ERROR] Error in creating severe damage: 'damage'
+2023-10-16 19:53:31 [INFO] Removing the damage grade column
+2023-10-16 19:53:31 [ERROR] Error in removing damage grade column: "['damage'] not found in axis"
+2023-10-16 19:53:31 [INFO] Damage grade column successfully removed.
+2023-10-16 19:55:25 [INFO] Removing High Leakage features
+2023-10-16 19:55:25 [INFO] High Leakage features removed successfully
+2023-10-16 19:55:25 [INFO] Removing columns with high correlation!
+2023-10-16 19:55:25 [ERROR] Error in removing high correlated features : "[('count_floors_pre_eq',)] not found in axis"
+2023-10-16 19:55:25 [INFO] Highly correlated columns successfully removed!
+2023-10-16 19:55:25 [INFO] Removing features with low or high cardinality!
+2023-10-16 19:55:25 [INFO] High or low cardinality features successfully removed.
+2023-10-16 19:55:25 [INFO] Creating the target variable: severe damage
+2023-10-16 19:55:25 [INFO] Removing the damage grade column
+2023-10-16 19:55:25 [INFO] Damage grade column successfully removed.
+2023-10-16 19:56:15 [INFO] Removing High Leakage features
+2023-10-16 19:56:15 [INFO] High Leakage features removed successfully
+2023-10-16 19:56:15 [INFO] Removing columns with high correlation!
+2023-10-16 19:56:15 [ERROR] Error in removing high correlated features : "[('count_floors_pre_eq',)] not found in axis"
+2023-10-16 19:56:15 [INFO] Highly correlated columns successfully removed!
+2023-10-16 19:56:15 [INFO] Removing features with low or high cardinality!
+2023-10-16 19:56:15 [ERROR] Error in removing high or low cardinality features: "['district_id'] not found in axis"
+2023-10-16 19:56:15 [INFO] High or low cardinality features successfully removed.
+2023-10-16 19:56:15 [INFO] Creating the target variable: severe damage
+2023-10-16 19:56:15 [ERROR] Error in creating severe damage: 'damage'
+2023-10-16 19:56:15 [INFO] Removing the damage grade column
+2023-10-16 19:56:15 [ERROR] Error in removing damage grade column: "['damage'] not found in axis"
+2023-10-16 19:56:15 [INFO] Damage grade column successfully removed.
+2023-10-16 19:57:58 [INFO] Removing High Leakage features
+2023-10-16 19:57:58 [INFO] High Leakage features removed successfully
+2023-10-16 19:57:58 [INFO] Removing columns with high correlation!
+2023-10-16 19:57:58 [INFO] Highly correlated columns successfully removed!
+2023-10-16 19:57:58 [INFO] Removing features with low or high cardinality!
+2023-10-16 19:57:58 [INFO] High or low cardinality features successfully removed.
+2023-10-16 19:57:58 [INFO] Creating the target variable: severe damage
+2023-10-16 19:57:58 [INFO] Removing the damage grade column
+2023-10-16 19:57:58 [INFO] Damage grade column successfully removed.
+2023-10-16 20:00:26 [INFO] Removing High Leakage features
+2023-10-16 20:00:26 [INFO] High Leakage features removed successfully
+2023-10-16 20:00:26 [INFO] Removing columns with high correlation!
+2023-10-16 20:00:26 [INFO] Highly correlated columns successfully removed!
+2023-10-16 20:00:41 [INFO] Removing High Leakage features
+2023-10-16 20:00:41 [INFO] High Leakage features removed successfully
+2023-10-16 20:00:41 [INFO] Removing columns with high correlation!
+2023-10-16 20:00:41 [ERROR] Error in removing high correlated features : "['count_floors_pre_eq'] not found in axis"
+2023-10-16 20:00:41 [INFO] Highly correlated columns successfully removed!
+2023-10-16 20:01:02 [INFO] Removing High Leakage features
+2023-10-16 20:01:02 [INFO] High Leakage features removed successfully
+2023-10-16 20:01:02 [INFO] Removing columns with high correlation!
+2023-10-16 20:01:02 [ERROR] Error in removing high correlated features : "['count_floors_pre_eq'] not found in axis"
+2023-10-16 20:01:02 [INFO] Highly correlated columns successfully removed!
+2023-10-16 20:01:16 [INFO] Removing High Leakage features
+2023-10-16 20:01:16 [INFO] High Leakage features removed successfully
+2023-10-16 20:01:16 [INFO] Removing columns with high correlation!
+2023-10-16 20:01:16 [INFO] Highly correlated columns successfully removed!
+2023-10-16 20:01:27 [INFO] Removing High Leakage features
+2023-10-16 20:01:27 [INFO] High Leakage features removed successfully
+2023-10-16 20:01:27 [INFO] Removing columns with high correlation!
+2023-10-16 20:01:27 [ERROR] Error in removing high correlated features : "['count_floors_pre_eq'] not found in axis"
+2023-10-16 20:01:27 [INFO] Highly correlated columns successfully removed!
+2023-10-16 20:06:02 [INFO] Removing High Leakage features
+2023-10-16 20:06:02 [INFO] High Leakage features removed successfully
+2023-10-16 20:06:02 [INFO] Removing columns with high correlation!
+2023-10-16 20:06:02 [INFO] Highly correlated columns successfully removed!
+2023-10-16 20:06:02 [INFO] Removing columns with low importance!
+2023-10-16 20:06:02 [INFO] Not significant columns successfully removed!
+2023-10-16 20:06:02 [INFO] Removing features with low or high cardinality!
+2023-10-16 20:06:02 [INFO] High or low cardinality features successfully removed.
+2023-10-16 20:06:02 [INFO] Creating the target variable: severe damage
+2023-10-16 20:06:02 [INFO] Removing the damage grade column
+2023-10-16 20:06:03 [INFO] Damage grade column successfully removed.
+2023-10-16 20:06:13 [INFO] Encoding categorical variables
+2023-10-16 20:06:14 [INFO] Categorical values successfully encoded!
+2023-10-16 20:06:19 [INFO] Applying Feature Scaling on dataframe columns
+2023-10-16 20:06:20 [INFO] Successfully scaled features
