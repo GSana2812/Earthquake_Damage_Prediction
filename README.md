@@ -1,4 +1,4 @@
-# Earthquake_Damage_Predictions_Modularized
+# Earthquake Damage Predictions Modularized
 
 In the [Traditional ML](https://github.com/GSana2812/Traditional_ML)  repository, among other projects, one notable project was predicting whether a building suffered severe damage or not during the catastrophic earthquake in Nepal, 2015. This project was originally done in a jupyter notebookk file, and I thought about structuring it a little bit, using Object Oriented Programming. This could help me further improve my software engineering skills combined with predictive analytics. 
 
